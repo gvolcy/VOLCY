@@ -34,5 +34,10 @@
     },
     "telegram-admin-handle": {
         "0": ""
-    }
-}
+        
+     {
+  "itn": {
+    "owner": "ed25519_pk1w30svwtq083dxvtk8ypz29jyer6h9jyrsajtwqr62shcaj55x5uqpyn8tk",
+    "witness": "ed25519_sig1..."
+ }
+}  
