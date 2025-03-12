@@ -4,7 +4,7 @@
         "url_png_logo": "https://bit.ly/47sA85r",
         "location": "CANADA MONTREAL",
         "social": {
-            "twitter_handle": "gvolcy",
+            "X_handle": "https://x.com/Gvolcy",
             "telegram_handle": "https://t.me/volcyhttp",
             "facebook_handle": "",
             "youtube_handle": "",
@@ -13,12 +13,10 @@
             "github_handle": "https://github.com/gvolcy"
         },
         "company": {
-            "name": "VOLCY",
+            "name": "VOLCY TECH",
             "addr": "",
             "city": "TERREBONNE,QC",
-            "country": "CANADA",
-            "company_id": "",
-            "vat_id": ""
+            "country": "CANADA"
         },
         "about": {
             "me": "My name is Gregory. I am a stake pool operator for Cardano since the begin ITN Rust. I am from Montreal, Canada. I discovered Cardano in 2018, and I fell in love with the concept ever since. Cardano is the 3rd generation of cryptocurrency. The benifits the technology  provides is amazing and life changing. The Cardano community is something that I am proud to be a part of and encourage Everyone to join. My goal is to be a long-term stake pool operator and to participate in the evolvement of the Cardano's technology while helping with real world problems. I believe in decentralize concept witch I won't  making another pool but VOLCY  as the main pool",
