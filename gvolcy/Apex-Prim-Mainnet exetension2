@@ -1,1 +1,40 @@
-
+{
+    "info": {
+        "url_png_icon_64x64": "https://bit.ly/3H6lqGB",
+        "url_png_logo": "https://bit.ly/47sA85r",
+        "location": "CANADA MONTREAL",
+        "social": {
+            "X_handle": "https://x.com/Gvolcy",
+            "telegram_handle": "https://t.me/volcyhttp",
+            "facebook_handle": "",
+            "youtube_handle": "",
+            "email": "gmvbit@gmail.com",
+            "discord_handle": "Greg [VOLCY]ADA Stakepool#1984",
+            "github_handle": "https://github.com/gvolcy"
+        },
+        "company": {
+            "name": "VOLCY TECH",
+            "addr": "",
+            "city": "TERREBONNE,QC",
+            "country": "CANADA"
+        },
+        "about": {
+            "me": "My name is Gregory. I am a stake pool operator for Cardano since the begin ITN Rust. I am from Montreal, Canada. I discovered Cardano in 2018, and I fell in love with the concept ever since. Cardano is the 3rd generation of cryptocurrency. The benifits the technology  provides is amazing and life changing. The Cardano community is something that I am proud to be a part of and encourage Everyone to join. My goal is to be a long-term stake pool operator and to participate in the evolvement of the Cardano's technology while helping with real world problems. I believe in decentralize concept witch I won't  making another pool but VOLCY  as the main pool",
+            "server": "Bare-Metal Server",
+            "company": "[AP3X]APEX-FUSION-SPO [CNC]CLIMATE NEUTRAL CARDANO ALLIANCE [ MDP]Cardano Mission Driven [ADA] CARDANO-SPO"
+        }
+    },
+    "my-pool-ids": {
+        "1": "pool17crhcn3j4pw9d4pyp0jn46u72x93cf8ntacvuyxk9zr7g55x4ys"
+    },
+    "when-satured-then-recommend": {
+        "1": "pool1rqwzms34598dnu36fg0xr3lw7wzy9sl9a2dmeegz9ef7s3wmu2p"
+    },
+    "telegram-admin-handle": {
+        "0": ""
+    },
+    "itn": {
+        "owner": "ed25519_pk1w30svwtq083dxvtk8ypz29jyer6h9jyrsajtwqr62shcaj55x5uqpyn8tk",
+        "witness": "ed25519_sig1qnw2hmkapaks9vhm8rk3g6pmuxnhk9tgnykgazt8k0cacwv9us2qzrugk90f46wcyzu04aduka9gzjgzxzq4qwxs3q6h7pwj2pklkzgqulkpd"
+    }
+}
