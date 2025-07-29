@@ -1,0 +1,62 @@
+{
+  "info": {
+    "url_png_icon_64x64": "https://www.volcyada.com/assets/volcy-icon-64x64.png",
+    "url_png_logo": "https://www.volcyada.com/assets/volcy-logo.png",
+    "location": "Global Multi-Chain Infrastructure",
+    "social": {
+      "twitter_handle": "gvolcy",
+      "telegram_handle": "",
+      "facebook_handle": "",
+      "youtube_handle": "",
+      "twitch_handle": "",
+      "discord_handle": "",
+      "github_handle": ""
+    },
+    "company": {
+      "name": "VOLCY - Elite Multi-Chain Infrastructure",
+      "addr": "",
+      "city": "",
+      "country": "Global",
+      "company_id": "",
+      "vat_id": ""
+    },
+    "about": {
+      "me": "VOLCY Pool - Elite Multi-Chain Infrastructure Provider & ITN Veteran. Participating in Cardano since the historic Incentivized Testnet (2019-2020), demonstrating unwavering commitment to the ecosystem. Professional SPO operating enterprise-grade nodes across multiple blockchain ecosystems: Cardano Mainnet/Testnet, Midnight Privacy Network, Mithril Snapshots, NuNet Computing, Xerberus Security, Icebreaker Network, and Apexfusion Protocol. Building the Lions & Lionesses community with technical excellence and proven experience.",
+      "server": "Enterprise-grade infrastructure with redundant multi-chain node deployment. 24/7 monitoring, automated failover, geographic distribution across data centers. Professional DevOps with Docker containerization, real-time metrics, and proactive maintenance for optimal uptime across all blockchain networks.",
+      "company": "Leading multi-chain infrastructure provider focused on Cardano ecosystem expansion. Specialized in emerging protocols including privacy networks (Midnight), decentralized computing (NuNet), security protocols (Xerberus), networking solutions (Icebreaker), and fusion technologies (Apexfusion). Committed to decentralization and blockchain innovation."
+    },
+    "blockchain_networks": {
+      "cardano": {
+        "mainnet": "Primary stake pool operation with consistent block production since mainnet launch",
+        "testnet": "Supporting Cardano testnet development and testing",
+        "mithril": "Mithril Signer for blockchain snapshots and light client support",
+        "itn": "Incentivized Testnet veteran - participated in Cardano's historic testnet program"
+      },
+      "midnight": "Privacy-focused partner chain node operations",
+      "nunet": "Decentralized computing network infrastructure",
+      "xerberus": "Security and monitoring protocol nodes",
+      "icebreaker": "Networking and communication protocol infrastructure",
+      "apexfusion": "Advanced blockchain fusion technology nodes"
+    },
+    "itn_credentials": {
+      "participation": "Incentivized Testnet Participant",
+      "era": "December 2019 - August 2020",
+      "jormungandr_id": "VOLCY",
+      "experience": "Early Cardano adopter with proven stake pool operation since the historic ITN program",
+      "badge_earned": "ITN Veteran - demonstrating long-term commitment to Cardano ecosystem"
+    }
+  },
+  "my-pool-ids": {
+    "0": "e3f8a83cefed03fe4ebdc4f50f3cdd880a7c2fd0b2ce7ff9da9cdce2"
+  },
+  "when-saturation-reached": "As a professional multi-chain operator, we maintain optimal delegation levels across our infrastructure. When approaching saturation, we guide delegators to other quality pools or expand our operations to maintain network decentralization while supporting the broader blockchain ecosystem.",
+  "technical_specifications": {
+    "cardano_node_version": "Latest stable release with continuous updates",
+    "mithril_signer": "Enabled for snapshot creation and verification",
+    "monitoring": "24/7 Prometheus + Grafana with custom alerting",
+    "backup_strategy": "Automated incremental backups with geographic redundancy",
+    "security": "Multi-layer security with hardware key management",
+    "uptime_target": "99.9% across all blockchain networks"
+  },
+  "multi_chain_commitment": "VOLCY represents the future of blockchain infrastructure - seamlessly operating across multiple protocols to provide delegators with exposure to the expanding Cardano ecosystem and emerging blockchain technologies. Our Lions & Lionesses community benefits from diversified blockchain participation while maintaining focus on Cardano's core mission."
+}
