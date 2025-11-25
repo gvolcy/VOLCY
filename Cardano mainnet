@@ -68,8 +68,9 @@
   "my-pool-ids": {
     "0": "e3f8a83cefed03fe4ebdc4f50f3cdd880a7c2fd0b2ce7ff9da9cdce2"
   },
+{
   "itn": {
     "owner": "ed25519_pk1w30svwtq083dxvtk8ypz29jyer6h9jyrsajtwqr62shcaj55x5uqpyn8tk",
     "witness": "ed25519_sig1qnw2hmkapaks9vhm8k3g6pmuxnhk9tgnykgazt8k0cacwv9us2qzrugk90f46wcyzu04aduka9gzjgzxzq4qwxs3q6h7pwj2pklkzgqulkpd"
   }
-}
+} 
